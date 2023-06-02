@@ -48,3 +48,7 @@ python manage.py loaddata todo_list_data.json
 ```
 python manage.py runserver
 ```
+- To run tests use command:
+```
+python manage.py test
+```
